@@ -1,6 +1,6 @@
 # Crop-Damage-prediction-end-to-end
 
-Link to the site:http://3.138.37.88:5000/
+Link to the site: http://3.138.37.88:5000/
 
 Aim: Trying to replicate complete end to end Machine Learning deployment.
 
