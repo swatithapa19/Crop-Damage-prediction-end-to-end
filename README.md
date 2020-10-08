@@ -1,5 +1,7 @@
 # Crop-Damage-prediction
 
+Link to the site:http://3.138.37.88:5000/
+
 Aim: Trying to replicate complete end to end Machine Learning deployment.
 
 Problem statement: You need to determine the outcome of the harvest season, i.e. whether the crop would be healthy (alive), damaged by pesticides or damaged by other reasons.
