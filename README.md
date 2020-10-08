@@ -16,6 +16,7 @@ Cloud and tools used:
 6. AWS EC2
 
 Steps followed:
+
   1.AWS RDA(PostgreSQL) was created to store the data with more than 80k+ rows.
   
   2.These data were extracted from RDS and was used for analysis and Modeling.
