@@ -9,7 +9,7 @@ Problem statement: You need to determine the outcome of the harvest season, i.e.
 
 Cloud and tools used:
 1. AWS RDS(PostgreSQL)
-2. Jupyternotebook
+2. Jupyter notebook
 3. Flask
 4. HTML/CSS
 5. Docker
