@@ -1,4 +1,4 @@
-# Crop-Damage-prediction
+# Crop-Damage-prediction-end-to-end
 
 Link to the site:http://3.138.37.88:5000/
 
