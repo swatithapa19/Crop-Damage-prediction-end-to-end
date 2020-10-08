@@ -17,12 +17,21 @@ Cloud and tools used:
 
 Steps followed:
   1.AWS RDA(PostgreSQL) was created to store the data with more than 80k+ rows.
+  
   2.These data were extracted from RDS and was used for analysis and Modeling.
+  
   3.A complete analysis of data was done with help of graphs.
+  
   4.Based on EDA feature engineering was done.
+  
   5.Later modeling was done with algorithms like Logistic regression, RandomForestClassifier, LBGMClassifier, and CatBoostClassifier.
+  
   6.Stratified cross-validation was done and then SMOTE to balance our target variable.
+  
   7.Got the best accuracy of 83.82% from LBGMClassifier with good precision.
+  
   8.Saved the mode as Pickle_LGBM_Model.pkl file.
+  
   9.Developed a flask model where this pkl file loaded.
+  
   10.Created an AWS EC2 instance uploaded the required file using Docker.
